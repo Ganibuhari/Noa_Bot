@@ -1,0 +1,17 @@
+# Ignore Scrapy cache files
+scraper/.scrapy/httpcache/u
+
+# Ignore entire httpcache directory
+scraper/.scrapy/httpcache/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings
+.vscode/
