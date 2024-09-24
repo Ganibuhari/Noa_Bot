@@ -15,3 +15,7 @@ venv/
 
 # Ignore VSCode settings
 .vscode/
+
+#ignore libraries
+/Lib
+

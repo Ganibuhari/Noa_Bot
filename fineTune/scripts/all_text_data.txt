@@ -1,0 +1,557 @@
+[
+{
+  "SchoolOfDigitalScience": {
+    "Institution": "Universiti Brunei Darussalam",
+    "Established": "August 2021",
+    "Overview": "Aims to produce highly competitive graduates equipped with skills to innovate and solve realworld problems.",
+    "UndergraduateProgrammes": {
+      "Degrees": [
+        "Bachelor of Digital Science (fouryear)",
+        "Bachelor of Digital Science (threeyear)"
+      ],
+      "Majors": [
+        "Applied Artificial Intelligence",
+        "Artificial Intelligence & Robotics",
+        "Computer Science",
+        "Cybersecurity & Forensics",
+        "Data Science"
+      ]
+    },
+    "GraduateProgrammes": {
+      "Degrees": [
+        "Master of Science (MSc)",
+        "Master of Health Science (Digital Public Health)",
+        "Doctor of Philosophy (PhD)"
+      ]
+    },
+    "ShortCourses": [
+      "ZD2401 Data Analysis and Visualization"
+    ],
+    "ResearchAreas": [
+      "Computer Vision",
+      "Machine Learning & Data Analytics",
+      "Natural Language Processing",
+      "Robotics",
+      "HumanComputer Interaction",
+      "Augmented & Virtual Reality",
+      "Internet of Things",
+      "Artificial Intelligence"
+    ],
+    "ContactInformation": {
+      "Address": "School of Digital Science, 2nd Floor, Academy of Brunei Studies Building, Jalan Tungku Link, Gadong, Universiti Brunei Darussalam, Brunei Darussalam, BE1410",
+      "ProgrammeCoordinator": "Dr. Ajaz Bhat"
+    },
+    "RecentNewsAndEvents": [
+      "UBD Digital Science student won first place in the LowCode Jumpstart Competition.",
+
+Website: ubd.edu.bn
+
+Academic Faculties
+Academy of Brunei Studies
+Faculty of Arts and Social Sciences
+Faculty of Integrated Technologies
+Faculty of Science
+Institute of Policy Studies
+Sultan Hassanal Bolkiah Institute of Education
+School of Digital Science
+Pengiran Anak Puteri Rashidah Sa’adatul Bolkiah Institute of Health Sciences
+UBD School of Business and Economic
+
+Research Faculties
+Centre for Advanced Material and Energy Sciences
+Centre for Advanced Research
+Institute of Asian Studies
+Institute of Applied Data Analytics
+Institute for Biodiversity and Environmental Research
+Institute for Leadership, Innovation and Advancement
+Sultan Omar Ali Saifuddien Centre for Islamic Studies
+
+
+Global Education
+Global Student
+Global Consortium
+Global Summer School
+International Exchange
+Student Support
+
+Health and Welfare
+Support for Students with Diverse Learning Needs
+Career Services
+Alumni Support
+Research and Innovation
+
+Patents@UBD
+Innovation Lab
+U&I Platform
+Sustainable Development Goals
+Recent News:
+5 September 2024: UBD Strengthens Industry Ties with New Entrepreneurial Initiatives.
+15 August 2024: University Medals and Excellence Awards Ceremony.
+15 August 2024: 36th UBD Convocation Ceremony for Graduates.
+
+Office of Assistant Vice Chancellor (Innovation and Enterprise)  Universiti Brunei Darussalam (UBD)
+Website: expert.ubd.edu.bn
+
+Overview:
+
+Established: 1985
+Mission: To empower futureready leaders through innovative education and enterprising research, guided by the values of Malay Islamic Monarchy (MIB).
+Core Values: People, Expertise, Aptitude, Relevance, Leadership.
+Key Programs:
+
+GenNEXT Programme: Offers a broadbased, transdisciplinary framework allowing students to tailor their studies according to their individual learning styles.
+Discovery Year Programme: Provides opportunities for students to gain global experience through partnerships with universities and institutions across six continents.
+
+
+School of Digital Science  Universiti Brunei Darussalam (UBD)
+Website: sds.ubd.edu.bn
+
+Contact Information:
+
+Address:
+School of Digital Science,
+2nd Floor of Academy of Brunei Studies Building,
+Jalan Tungku Link,
+BE1410 Brunei Darussalam
+Email: office.sds@ubd.edu.bn
+
+Faculty and Staff  School of Digital Science
+Academic Staff:
+
+Dr. Liyanage Chandratilak De Silva  Senior Professor, Dean (School of Digital Science) (2023)
+Dr. Ong Wee Hong  Assistant Professor, Programme Leader (2023/2024) Computer Science
+Dr. Owais Ahmed Malik  Senior Assistant Professor, Accreditation and Publicity Coordinator (2023/2024)
+Dr. Ajaz Ahmad Bhat  Assistant Professor, Programme Leader (2023/2024) Artificial Intelligence and Robotics
+Dr. Rosyzie Anna Awg Haji Mohd Apong  Lecturer, Deputy Dean (SDS & IADA) (2023/2024)
+Dr. Daphne Lai Teck Ching  Senior Assistant Professor, Programme Leader and Discovery Year Coordinator (2023/2024) Data Science
+Dr. Abdul Ghani Haji Naim  Senior Assistant Professor, Director of the Information, Communication and Technology Centre (ICTC)
+Dr. Ali Tufail  Senior Assistant Professor, Programme Leader (2023/2024) Cybersecurity and Forensics
+Chong Kim Onn  Senior Lecturer
+Lim Sei Guan  Lecturer, Director of Office of Strategy, Delivery and Institutional Advancement (SeDIA)
+Dr. Abdullahi Abubakar Imam  Lecturer, SDS RE and Postgraduate Coordinator
+Administration Staff:
+
+Mr. Ryan Lim Sei Heng  Assistant Registrar
+Asde Nawang  Administration Support
+Technical Staff:
+
+Dyg Sarina binti Pandin @ Ibrahim  Technical Staff
+
+Graduate Programmes at Universiti Brunei Darussalam (UBD)
+1. Master of Digital Science (MDSc)
+Specializations:
+
+Artificial Intelligence
+Computer Science
+Cybersecurity & Forensic
+Data Science
+Robotics
+Aims and Scope:
+
+Provide highlevel specialized training.
+Prepare students for PhDlevel studies.
+Focus on original research contributing to Digital Science.
+Structure:
+
+Conduct an approved research project under staff supervision.
+Submit a thesis (max. 60,000 words).
+Duration:
+
+FullTime: Min 12 months, Max 24 months.
+PartTime: Min 24 months, Max 48 months.
+Assessment:
+
+Examination of the thesis by internal and external examiners.
+Possible oral examination or additional tests.
+2. Master of Health Science (Digital Public Health)
+Aims and Scope:
+
+Develop knowledge in digital public health using big data and digital technology.
+Focus on predictive analytics, machine learning, biostatistics, epidemiology, and more.
+Structure:
+
+Undertake an approved research project.
+Complete at least eight (8) MCs from specified modules.
+Submit a thesis (max. 60,000 words).
+Duration:
+
+FullTime: Min 12 months, Max 36 months.
+PartTime: Min 24 months, Max 72 months.
+Assessment:
+
+Thesis examination by internal and external examiners.
+Option modules assessed by 100% coursework.
+3. Doctor of Philosophy (PhD)
+Specializations:
+
+Artificial Intelligence
+Computer Science
+Cybersecurity & Forensic
+Data Science
+Robotics
+Aims and Scope:
+
+Conduct advanced research with international impact.
+Develop skills for independent research and critical thinking.
+Structure:
+
+Undertake an approved research project.
+Submit a thesis (max. 100,000 words).
+Duration:
+
+FullTime: Min 12 months, Max 24 months.
+PartTime: Min 24 months, Max 48 months.
+Assessment:
+
+Examination of the thesis by internal and external examiners.
+Possible oral examination or additional tests.
+Research Interests
+Intelligent Healthcare Systems
+Wireless Sensor Integration and Fusion
+Motion Capture and Reconstruction
+BrainMachine Interface
+Virtual Interfacing Technologies
+Biologicallyinspired Robotics
+HumanRobot Interaction
+LargeScale Autonomous Systems
+Modern Artificial Intelligence
+Data Mining and Machine Learning
+Cryptography and Computer Security
+High Performance Computing
+Ambient Intelligence
+
+Staff Directory
+29 November 2022
+Hajah Asmah binti Haji Husaini
+Dr. Shahid Mitha
+Dr. Jagjit Singh Dhaliwal
+Agong bin Lupat
+Dr. Hjh Fazean Irdayati binti Hj Idris
+Dr Khadizah binti Haji Abdul Mumin
+Dr. Sheikh Naeem Shafqat
+Dr. Anne Catherine Cunningham
+Dr. Hjh Asiyah AzZahra bt Ahmad Kumpoh  
+Gabriel Yong Vit Vui  
+Khairunnisa binti Hj Ibrahim  
+Dr. Kathrina binti Dato Paduka Hj Mohd Daud  
+Dr. Mardina binti Hj Mahadi  
+Dr. Nani Suryani binti Hj Abu Bakar  
+Hjh Aznah binti Hj Suhaimi  
+Izni Azrein bin Noor Azalie  
+Pg. Dr. Hj Mohamed Pg Damit  
+Asmali bin Hj Sulaiman  
+Deeni Rudita bin Idris
+Dr. Nik Anni Afiqah bitni Haji Mohammad Tuah
+Khairunnisa Ani binti Ibrahim  
+Nurul Ashikin bte Hapni  
+Haji Ahmad Nabil bin Haji Sulaiman  
+Hajah Kamsini binti Hj Mohd Hussin  
+Dk. Noraini binti Pg Haji Idris  
+Amirul Shahezal bin Abd Rahman  
+Dk. Umi Kalthum binti Pg. Dr. Hj. Amir Muhd Yusof  
+Dk. Nurul Amal Nazahiah Pg. Hj. Mat Rais  
+Merhane binti Md.Salleh  
+Ahmad Safwan bin Haji Jalil 
+Fatimah Arni binti Hj Md Daud  
+Liew Moi  
+Hazilan bin Ramli  
+Mohammad Afandi bin Siahat  
+Ak. Mohd Safwan@Mohd Arif Pg. Hj. Asli  
+Noorhaninah binti Abd Rahman  
+Dk. Izyan Syazwani binti Pg Tajudin  
+Mohammad Khairol bin Sainun  
+UBD Corporation Reservation  
+UBD Corporation (UBD Corp) 
+Pg. Hj. Ashrol Rahimy bin Pg Damit  
+Dr. Hannah Ho Ming Yit  
+Dk Dr. Noor Hasharina binti Pg Hassan  
+Daniel Wee Ming Kho  
+Dr. Sabrina binti Dato Paduka Hj Mohd Daud  
+Dr. Siti Fatimahwati binti Pehin Haji Musa  
+Dr. Truong Ton Hien Duc  
+Wardah Hakimah binti Haji Sumardi  
+Wardah Azimah binti Haji Sumardi  
+Dr. Hajah Syamimi binti Haji Mohd Aarif Lim 
+Hjh Hasnah binti Hj Matsarudin  
+Mohammad Khairul Nizam bin Suhaili  
+Nurakmarina binti Johar  
+Security Post (Student Centre Student Affair Section)  
+Security Post (Chancellor Hall)  
+Security Post (ICTC)  
+Security Post (Female Residential College)  
+Security (Main Gate)  
+
+18 November 2022
+Dk. Nurul Aqilah Pg Masuni  
+Hj. Mohd Ramli bin Hj. Jumat  
+Akmal Nasri bin Kamal  
+Sendi Anak Batu  
+Nur Farazida binti Haji Abdullah  
+Zeti Kamela binti Matasan  
+Hjh Wan Farhani binti Haji Suhaili  
+Siti Aziemah Osman  
+Mohd Arif bin Dr. Hj Sablee  
+Hajah Norleha binti Haji Mat Yassin  
+
+7 November 2022
+Mohd Arif bin Dr. Hj Sablee  
+Hajah Norleha binti Haji Mat Yassin  
+
+FUTURE PROJECTS for School of Digital Science (SDS)
+Deep Learning with Limited Data (Ph.D.)
+
+Focus: Techniques like transfer learning and Generative Adversarial Networks (GANs) to solve deep learning problems with limited data.
+Deep Learning Security (Ph.D.)
+
+Focus: Investigating vulnerabilities like the "butterfly effect" in deep learning where small data alterations drastically change outcomes.
+Generative Adversarial Networks (GANs) for NLP (Ph.D.)
+
+Focus: Exploring GANs for text-to-image and other natural language processing tasks.
+Human Activity Recognition (HAR) in Sensorless Environments (M.Sc., Ph.D.)
+
+Objective: Develop an unsupervised framework for HAR in natural environments without sensors, using robots as mobile data hubs.
+Storage Cloud-based IoT Devices (M.Sc., Ph.D.)
+
+Objective: Develop IoT systems using cloud services like Dropbox and Google Drive for scalability and ease of use.
+Self-Driving Car (M.Sc.)
+
+Objective: Build a self-driving car prototype to conduct research on various aspects of autonomous vehicles.
+Driving Pattern Modeling (M.Sc., Ph.D.)
+
+Focus: Use AI and machine learning to analyze driving patterns for traffic safety enhancement.
+Unsupervised Deep Algorithms for Data Clustering (Ph.D.)
+
+Objective: Develop novel algorithms for unsupervised feature extraction and clustering in data.
+AI in Biomass Processing (Ph.D.)
+
+Objective: Use machine learning and AI to gain insights from biomass processing data.
+Computer Vision and Data Analytics for Healthcare and Biodiversity (Ph.D./M.Sc.)
+
+Focus: Multidisciplinary projects involving image analysis and data analytics.
+Remote Sensing and Deep Learning (Ph.D./M.Sc.)
+
+Objective: Use UAVs, satellites, and AI for applications like crop and forest health monitoring.
+Applications of Large Language Models (LLMs) (Ph.D./M.Sc.)
+
+Focus: Apply and fine-tune large language models for various applications.
+Cognitive Continual Learning Systems (Ph.D./M.Sc.)
+
+Objective: Investigate AI systems for human-like learning, problem-solving, and creativity.
+Robot Motion Planning and Action Recycling (Ph.D./M.Sc.)
+
+Objective: Develop motor control in robots, enabling skill transfer between tasks.
+Grounded Language Learning for Robots (Ph.D./M.Sc.)
+
+Objective: Build agents that acquire language by interacting with their environments, simulating how children learn language.
+
+FUTURE PROJECT FOR Institute of Applied Data Analytics (IADA)
+
+Project Focus: Developing a novel Information Retrieval (IR) system using proxy query obfuscation for privacy preservation in web search, with applications in the medical domain.
+Contact: Shariq Bashir
+Sultan Omar 'Ali Saifuddien Centre for Islamic Studies (SOASCIS)
+
+Project: Theological reasoning and practices of religious survival among urban minority Muslim youth in Europe (Bosnia, Sweden, UK).
+Contact: Emin Poljarevic
+Institute for Biodiversity and Environmental Research (IBER)
+
+Focus: Biodiversity and environmental research.
+Contact: Information not specified.
+Institute of Asian Studies (IAS)
+
+Projects:
+Reorganizing Constitutional Power in Indonesia
+Focuses on constitutional reform and plural societies.
+Contact: Dr. Paul J. Carnegie
+Human Security, Marginality, and Precariousness in Southeast Asia
+Examines human insecurities and their socio-economic impacts.
+Contact: Dr. Paul J. Carnegie
+Life in Brunei Darussalam: A Sociology of the Everyday
+Investigates religious life, gender issues, and ethnic formation in Brunei.
+Contact: Dr. Paul J. Carnegie
+Borneo Within, Borneo Beyond: Issues and Perspectives
+Emerging from the Borneo Studies Network, this volume focuses on contemporary research on Borneo.
+Contact: Dr. Victor Terence King
+Centre for Advanced Material and Energy Sciences (CAMES)
+
+Projects:
+Biomass Treatment for Sustainable Energy Applications
+Focuses on ethanol production from lignocellulose biomass.
+Contact: Dr. Rosnah Abdullah
+Metal Oxide Nanoparticle for Gas Sensors
+Fabrication and modeling of gas sensors for environmental safety.
+Contact: Dr. Roshan Thotagamuge
+CO2 Utilization for Value-Added Products
+Focuses on CO2 as a carbon feedstock for biofuels and catalysts design.
+Contact: Dr. Hasliza Bahruji
+Catalysis for Methane Conversion into Chemicals
+Research on efficient catalysts for methane activation.
+Contact: Dr. Abdul Hanif Mahadi
+AI-Assisted Material Design
+Application of artificial intelligence in material design.
+Contact: Dr. Chee M Lim
+
+Future project for School of Business and Economics:
+Research and Study Opportunities:
+Business Models of Digital Marketplace in ASEAN
+Contact: Dr. Hj Mohammad Nabil Almunawar
+Opportunities: Master, PhD
+Focus:
+Studying network effects and expansion strategies of digital marketplaces in ASEAN.
+Examining how ASEAN nations utilize digital marketplaces for business and economic diversification.
+Case studies in social commerce in Brunei.
+Digital Business Ecosystem
+Contact: Dr. Hj Mohammad Nabil Almunawar
+Opportunities: PhD, Master
+Focus:
+Exploring digital platforms within value-exchange networks.
+Developing a model for digital business ecosystems and studying applications in various digital platforms.
+Asymmetry and Leptokurtosis in Financial Data
+Contact: Dr. Gamini Premaratne
+Opportunities: PhD
+Focus:
+Examining non-normal characteristics (asymmetry and leptokurtosis) in financial data.
+Developing suitable tests for kurtosis, addressing skewness.
+Use of Pearson Family Distribution in Economic and Financial Data
+Contact: Dr. Gamini Premaratne
+Opportunities: PhD
+Focus:
+Exploring the behavior of economic data through Pearson family distributions, particularly in finance.
+Developing a New Sensitivity Measure for Market Risk
+Contact: Dr. Gamini Premaratne
+Opportunities: Master, PhD
+Focus:
+Creating a sensitivity measure to explain return behaviors and volatility in financial markets.
+Building Resilience with Business Information Systems (BIS)
+Contact: Dr. Muhammad Anshari
+Opportunities: Interdisciplinary collaboration
+Focus:
+Investigating the role of business information systems in building resilience, aligned with the Fourth Industrial Revolution.
+Digital Inclusion and Financial Inclusion
+Contact: Dr. Muhammad Anshari
+Opportunities: PhD, Master
+Focus:
+Contributing to Sustainable Development Goal (SDG) 9: Industry, Innovation, and Infrastructure.
+
+Global Initiatives
+Global Education
+Global Student
+Global Consortium
+Global Summer School
+Collaborative Publications
+Development
+
+Invest in Academic Staff
+New Resources and Infrastructure
+Support the Best Students
+Outreach Strategy
+
+Seminars
+Summer Programme
+Outreach Programme
+Eminent Speaker Series
+Admission
+
+Undergraduate
+
+Applying to UBD
+International Students
+Why UBD
+After UBD
+Alumni Support
+Career Services
+Graduate Destinations
+GenNext Degree Programme
+Degree Programmes
+Entry Requirements
+Fees & Funding
+International Qualifications
+Major and Minors
+Support for Wellbeing
+Health and Welfare
+Mature Students
+Students with Diverse Learning Needs
+Living in Brunei
+Study@UBD
+Graduate
+
+Applying to UBD
+Graduate Entry Requirements
+Graduate Fees & Funding
+Graduate Degree Programs
+International Students
+Alumni
+Office of Alumni Relations and Advancement
+Guild of Graduates
+Careers
+Living in Brunei
+Accommodation
+Clubs & Societies
+Sports & Recreation
+Rankings
+
+Research & Teaching
+Support for Wellbeing
+University Library
+
+International Exchange
+
+Global Discovery Programme
+Fees
+Entry Criteria
+How to Apply
+Lifelong Learning
+
+Entry Requirements
+Fees & Funding
+Discovery Year
+Scholarships
+New Students
+Research
+
+Support for Researchers
+Guidance for Principal Investigators
+University Research Ethics Committee
+Research at Faculties & Institutions
+Research Highlights
+UBD Research Experts
+Research Thrusts
+Innovation
+
+Patents@UBD
+Innovation Lab
+U&I Platform
+Sustainable Development Goals
+
+UBD and UEA Collaboration: Kitchen Chemistry Show
+Date: 25 January 2023
+Location: Pro Chancellor Arts Centre, UBD
+
+International Workshop on Biodiversity and Bioinspiration
+Date: 9 January 2022
+Location: Chancellor’s Hall, UBD
+
+Freshers Week for January 2023 Intake
+Date: 10 January 2023
+Location: Chancellor Hall, UBD
+
+Mental Health Awareness Campaign by PAPRSB IHS Nursing Students
+Date: 18 December 2022
+5th Edition PRISM UBD Short Film Festival 2022
+Date: 6 December 2022
+
+Huawei Seeds for the Future 2022
+Date: 6 December 2022
+Location: PAPRSB IHS Extension Building Open Concourse, UBD
+
+UBD's 5th PRISM UBD Short Film Festival Opening Screening
+Date: 15 November 2022
+
+UBD's QS Sustainability Rankings
+Date: 9 November 2022
+
+UBD Joins Babson Collaborative for Entrepreneurship Education
+Date: 8 November 2022
+
+World Intellectual Property Day Celebration
+Date: 26 October 2022
+Location: Pro Chancellor Arts Centre, UBD
